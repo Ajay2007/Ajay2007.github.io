@@ -6,7 +6,7 @@ description: web site analyzer
 comments: true
 ---
 
-Below are the examples of the default table styling.
+Ever wonder how to know the technology the web site is using .
 
 ## Simple table
 
