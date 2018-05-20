@@ -41,12 +41,12 @@ yandex_metrica:
 disqus: Ajay2007
 comments: true
 
-permalink: /:year/:month/:day/:title
+permalink: /:year/:month/:title
 
 # Enable for using pages, more details are here: http://jekyllrb.com/docs/pagination/
 #paginate: 3
 
-#highlighter: rouge
+highlighter: rouge
 
 markdown: kramdown
 kramdown:
