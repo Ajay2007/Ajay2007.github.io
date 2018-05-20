@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "OverTheWire: Bandit 0-5"
-date: 2016-10-17 12:00:00
+date: 2018-5-21 3:36:00
 share: true
 comments: true
 tags: [OverTheWire - Bandit]
